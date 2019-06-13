@@ -29,7 +29,7 @@ Once you use it on your systems, **there is no going back**! *You have been warn
 
 ## Contents
 
-1. [How it looks](#how-it-looks) - have a quick look at it
+1. [How it looks](#how-it-looks) - have a quick look at it!
 2. [User base](#user-base) - who uses Netdata?
 3. [Quick Start](#quick-start) - try it now on your systems
 4. [Why Netdata](#why-netdata) - why people love Netdata, how it compares with other solutions
